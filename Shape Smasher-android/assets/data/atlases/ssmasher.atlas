@@ -1,0 +1,292 @@
+
+ssmasher.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 215
+  size: 4, 800
+  orig: 4, 800
+  offset: 0, 0
+  index: -1
+btnfxoff
+  rotate: false
+  xy: 7, 815
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnfxon
+  rotate: false
+  xy: 7, 613
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnfxonclk
+  rotate: false
+  xy: 209, 815
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnhelp
+  rotate: false
+  xy: 7, 411
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnhelpclk
+  rotate: false
+  xy: 209, 613
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnhigh
+  rotate: false
+  xy: 411, 815
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnhighclk
+  rotate: false
+  xy: 209, 411
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnmenu
+  rotate: false
+  xy: 411, 613
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnmenuclk
+  rotate: false
+  xy: 613, 815
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnpause
+  rotate: false
+  xy: 203, 57
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+btnpauseclk
+  rotate: false
+  xy: 355, 57
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+btnplay
+  rotate: false
+  xy: 411, 411
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnplayclk
+  rotate: false
+  xy: 613, 613
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnrestart
+  rotate: false
+  xy: 815, 815
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnrestartclk
+  rotate: false
+  xy: 613, 411
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnsettings
+  rotate: false
+  xy: 815, 613
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnsettingsclk
+  rotate: false
+  xy: 815, 411
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnsoundoff
+  rotate: false
+  xy: 7, 209
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnsoundon
+  rotate: false
+  xy: 209, 209
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnsoundonclk
+  rotate: false
+  xy: 411, 209
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnvibrateoff
+  rotate: false
+  xy: 613, 209
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnvibrateon
+  rotate: false
+  xy: 815, 209
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+btnvibrateonclk
+  rotate: false
+  xy: 1, 7
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 507, 147
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+circlebg
+  rotate: false
+  xy: 507, 85
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+hexagram
+  rotate: false
+  xy: 569, 147
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+hexagrambg
+  rotate: false
+  xy: 569, 85
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+pentagram
+  rotate: false
+  xy: 631, 147
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+pentagrambg
+  rotate: false
+  xy: 631, 85
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 693, 147
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+plusbg
+  rotate: false
+  xy: 693, 85
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+rectangle
+  rotate: false
+  xy: 755, 147
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+rectanglebg
+  rotate: false
+  xy: 755, 85
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+slideraf
+  rotate: false
+  xy: 1, 209
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+sliderbf
+  rotate: false
+  xy: 1017, 1011
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+sliderbg
+  rotate: false
+  xy: 1, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 817, 147
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+starbg
+  rotate: false
+  xy: 817, 85
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+triangle
+  rotate: false
+  xy: 879, 147
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+trianglebg
+  rotate: false
+  xy: 879, 85
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
